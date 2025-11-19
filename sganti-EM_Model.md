@@ -18,3 +18,6 @@ The objective is to select the 15 most relevant features for model training.
 
 ## Model Evaluation ##
 1. Evaluated model performance using accuracy and precision scores.
+
+## EM CPT ##
+![CPT](sganti-EM_CPT.png)
